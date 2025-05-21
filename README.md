@@ -1,4 +1,4 @@
-### I was having issues with the add and push commands, Tom helped me. Could've been because I copied my classwoek folder to another location or because I had created 2 repositories (the first one wasn't in the classwork folder but just in the general C folder) ###
+### I was having issues with the add and push commands, Tom helped me. Could've been because I copied my classwork folder to another location or because I had created 2 repositories (the first one wasn't in the classwork folder but just in the general C folder) ###
 ![Screenshot 2025-05-20 200502](https://github.com/user-attachments/assets/f8e4f85a-bc3d-4cc5-9b1a-2064554b181e)
 ![Screenshot 2025-05-20 200908](https://github.com/user-attachments/assets/91625d64-9376-48a2-848b-ce540afed5ae)
 ![Screenshot 2025-05-20 201234](https://github.com/user-attachments/assets/50111064-7aa3-40b6-a19f-4d2f73424f2c)
